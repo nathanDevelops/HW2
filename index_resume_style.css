@@ -1,0 +1,54 @@
+
+
+h1 { 
+
+		text-align: center;
+		font-weight:bold;
+}
+
+.arrangeLeft {
+
+	position: absolute;
+	left: 25px;
+		
+	}
+	
+.arrangeRight {
+
+	position: absolute;
+	right: 25px;
+	
+	}
+	
+body {
+
+	color:yellow;
+	background-color:black;
+
+}
+
+.header {font-size:20pt; text-align:left; font-weight:bold}
+
+.picturePadding {
+
+	border:2px;
+	padding:10px;
+	margin:5px;
+	
+}
+
+.centerList {
+
+	display:table; 
+	margin:0 
+	auto;
+}
+	
+
+
+
+
+
+
+
+
